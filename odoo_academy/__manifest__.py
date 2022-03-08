@@ -5,7 +5,7 @@
     
     'sumary': """Academy app to manage Training""",
     
-    'description': """"
+    'description': """
        Academy Module to manage Traning
        - Courses
        - Sessions
