@@ -22,12 +22,11 @@
     'depends': ['base'],
     
     'data': [
-        <!-- 'security/academy_security.xml', -->
-        <!-- 'security/ir.model.access.csv', -->
+
     ],
     
     'demo': [
-        <!-- 'demo/academy_demo.xml', -->
+
         
     ],
 }
